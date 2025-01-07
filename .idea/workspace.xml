@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c43e816-b621-4cff-a8ee-c8e34f4d06c3" name="Changes" comment="" />
+    <list default="true" id="4c43e816-b621-4cff-a8ee-c8e34f4d06c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudo-java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudo-java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudo-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudo-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudo-java/src/main/java/aulas/aula26Parte1.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudo-java/src/main/java/aulas/aula26Parte1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/curso_programacao/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/curso_programacao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/curso_programacao/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/curso_programacao/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/curso_programacao/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/curso_programacao/src/atividade01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/curso_programacao/src/curso_programacao/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-eclipse/curso_programacao/src/module-info.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,27 +27,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2rGPOpknSlXP1PamAE20Vo18OOa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
-      </set>
-    </attachedChunks>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,5 +53,16 @@
       <updated>1736182409595</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

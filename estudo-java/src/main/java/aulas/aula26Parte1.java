@@ -9,8 +9,8 @@ public class aula26Parte1 {
 
         Scanner sc = new Scanner(System.in);
 
-        String x;
-        x = sc.next();
+        int x;
+        x = sc.nextInt();
         System.out.println("Voce digitou: " + x);
 
         sc.close();
