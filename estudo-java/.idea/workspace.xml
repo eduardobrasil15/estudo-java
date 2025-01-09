@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c71ee6-1b38-4343-ab0d-0bed1d600384" name="Changes" comment="" />
+    <list default="true" id="04c71ee6-1b38-4343-ab0d-0bed1d600384" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,24 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.aula25.executor": "Run",
-    "Application.aula25E2.executor": "Run",
-    "Application.aula25E3.executor": "Run",
-    "Application.aula25E4.executor": "Run",
-    "Application.aula25E5.executor": "Run",
-    "Application.aula26Parte1.executor": "Run",
-    "Application.aula26Parte2.executor": "Run",
-    "Application.aula26Parte2E3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.aula25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula25E2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula25E3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula25E4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula25E5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula26Parte1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula26Parte2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula26Parte2E3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.aula26Parte1">
     <configuration name="aula26Parte1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulas.aula26Parte1" />
       <module name="estudo-java" />
