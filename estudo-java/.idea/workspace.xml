@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04c71ee6-1b38-4343-ab0d-0bed1d600384" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aulas/aula28ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicios/ex01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aulas/aula28E1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aulas/aula28E1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,7 @@
     "Application.aula26Parte2.executor": "Run",
     "Application.aula26Parte2E3.executor": "Run",
     "Application.aula28ex01.executor": "Run",
+    "Application.ex01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
