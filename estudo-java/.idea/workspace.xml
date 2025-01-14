@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04c71ee6-1b38-4343-ab0d-0bed1d600384" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aulas/aula35E1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aulas/aula35E2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aulas/aula35E3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,8 @@
     "Application.aula26Parte2E3.executor": "Run",
     "Application.aula28ex01.executor": "Run",
     "Application.aula35E1.executor": "Run",
+    "Application.aula35E2.executor": "Run",
+    "Application.aula35E3.executor": "Run",
     "Application.ex01.executor": "Run",
     "Application.ex02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
