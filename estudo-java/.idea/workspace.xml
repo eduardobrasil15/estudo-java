@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c71ee6-1b38-4343-ab0d-0bed1d600384" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicios/ex2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04c71ee6-1b38-4343-ab0d-0bed1d600384" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,31 +34,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.aula25.executor": "Run",
-    "Application.aula25E2.executor": "Run",
-    "Application.aula25E3.executor": "Run",
-    "Application.aula25E4.executor": "Run",
-    "Application.aula25E5.executor": "Run",
-    "Application.aula26Parte1.executor": "Run",
-    "Application.aula26Parte2.executor": "Run",
-    "Application.aula26Parte2E3.executor": "Run",
-    "Application.aula28ex01.executor": "Run",
-    "Application.aula35E1.executor": "Run",
-    "Application.aula35E2.executor": "Run",
-    "Application.aula35E3.executor": "Run",
-    "Application.ex01.executor": "Run",
-    "Application.ex02.executor": "Run",
-    "Application.ex2_1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/eduardo/Documentos/GitHub/estudo-java/estudo-java",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.aula25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula25E2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula25E3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula25E4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula25E5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula26Parte1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula26Parte2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula26Parte2E3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula28ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula35E1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula35E2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula35E3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex2_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/eduardo/Documentos/GitHub/estudo-java/estudo-java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ex2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicios.ex2_1" />
