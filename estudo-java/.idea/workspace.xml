@@ -64,7 +64,14 @@
     "git-widget-placeholder": "<unknown>",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+<<<<<<< Updated upstream
     "last_opened_file_path": "C:/Users/eduar/OneDrive/Documentos/GitHub/estudo-java/estudo-java",
+=======
+    "last_opened_file_path": "/home/eduardo/Documentos/GitHub/estudo-java/estudo-java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+>>>>>>> Stashed changes
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
